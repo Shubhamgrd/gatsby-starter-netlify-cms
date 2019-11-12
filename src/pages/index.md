@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Shubham
-image: /img/home-jumbotron.jpg
+image: /img/img_20180413_121836.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
