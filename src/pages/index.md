@@ -66,6 +66,6 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/img_20180413_121836.jpg
 ---
 
